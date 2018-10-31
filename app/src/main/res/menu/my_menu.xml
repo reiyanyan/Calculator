@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/konversi" android:title="Konversi" />
+    <item android:id="@+id/test1" android:title="Test 1" />
+    <item android:id="@+id/test2" android:title="Test 2" />
+</menu>
